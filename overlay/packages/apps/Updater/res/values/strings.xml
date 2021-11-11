@@ -15,9 +15,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/LeddaZ/posp-custom-builds/frico-release/miatoll/ota.json</string>
+    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/posp-custom/builds/frico-release/miatoll/ota.json</string>
 
-    <string name="menu_changelog_url" translatable="false">https://github.com/LeddaZ/posp-custom-builds/blob/frico-release/miatoll/changelog.md</string>
+    <string name="menu_changelog_url" translatable="false">https://github.com/posp-custom/builds/blob/frico-release/miatoll/changelog.md</string>
 
-    <string name="changelog_url" translatable="false">https://github.com/LeddaZ/posp-custom-builds/blob/frico-release/miatoll/changelog.md</string>
+    <string name="changelog_url" translatable="false">https://github.com/posp-custom/builds/blob/frico-release/miatoll/changelog.md</string>
 </resources>
