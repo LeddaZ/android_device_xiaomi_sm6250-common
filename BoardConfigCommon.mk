@@ -151,6 +151,9 @@ BOARD_USES_METADATA_PARTITION := true
 
 BOARD_FLASH_BLOCK_SIZE := 131072
 
+# Pixel charging animation
+USE_PIXEL_CHARGER := true
+
 # Platform
 BOARD_USES_QCOM_HARDWARE := true
 BOARD_VENDOR := xiaomi
